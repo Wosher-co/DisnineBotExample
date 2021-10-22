@@ -1,4 +1,4 @@
-import { Intents } from "discord.js/typings/index.js";
+import { Intents } from "discord.js";
 import { DisBot } from "disnine.js";
 import path from "path";
 import dotenv from "dotenv";
