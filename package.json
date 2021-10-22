@@ -16,6 +16,8 @@
   "author": "Pol",
   "license": "ISC",
   "dependencies": {
+    "disnine.js": "^0.0.1",
+    "dotenv": "^10.0.0",
     "typescript": "^4.3.4"
   },
   "devDependencies": {
